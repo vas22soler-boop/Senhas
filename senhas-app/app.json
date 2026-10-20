@@ -1,0 +1,19 @@
+{
+  "expo": {
+    "name": "senhas-app",
+    "slug": "senhas-app",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "userInterfaceStyle": "light",
+    "scheme": "senhasapp",
+    "android": {
+      "predictiveBackGestureEnabled": false
+    },
+    "web": {
+      "output": "static"
+    },
+    "plugins": [
+      "expo-router"
+    ]
+  }
+}

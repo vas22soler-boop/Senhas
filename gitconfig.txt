@@ -1,0 +1,3 @@
+-- Configuração do GIT
+git config --global user.name LeonardoA
+git config --global user.email vas22soler@gmail.com
